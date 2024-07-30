@@ -18,5 +18,11 @@ Languages/tools
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="[https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.sv](https://github.com/user-attachments/assets/4f8d8785-f442-4760-a5c1-2a3e1bcc0514)g" />
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="[[https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.sv](https://github.com/user-attachments/assets/4f8d8785-f442-4760-a5c1-2a3e1bcc0514)g](https://github.com/user-attachments/assets/9303b2d6-8f9a-4e84-aa58-509de8631ae0)" />
+<img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="[[[https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.sv](https://github.com/user-attachments/assets/4f8d8785-f442-4760-a5c1-2a3e1bcc0514)g](https://github.com/user-attachments/assets/9303b2d6-8f9a-4e84-aa58-509de8631ae0)](https://github.com/user-attachments/assets/22e82734-e77d-42f9-a0d7-0e3958f8aa58)" />
+
+
+
 
 
