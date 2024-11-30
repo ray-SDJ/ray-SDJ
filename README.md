@@ -54,7 +54,7 @@ Languages/tools
 <img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="938580a5-353a-49d0-b3a0-f0237aeb8f11" data-share-badge-host="https://www.credly.com"></div>
-<img src="https://www.credly.com/badges/938580a5-353a-49d0-b3a0-f0237aeb8f11/public_url" alt="Security+ Badge" width="150" height="270">
+
           
           
           
