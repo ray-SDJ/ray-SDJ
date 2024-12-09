@@ -14,17 +14,16 @@ Security Certifications: CompTIA Security+, Google Cybersecurity Certificate
 
 Cybersecurity Interests:
 
-Network security analysis
-Threat detection and prevention
-System vulnerability assessment
-Secure application development
-
+Network security analysis,
+Threat detection and prevention,
+System vulnerability assessment,
+Secure application development,
 Soft Skills:
 
 Team player
-Quick learner
-Eager to take on new challenges
-Strong analytical and problem-solving skills
+Quick learner,
+Eager to take on new challenges,
+Strong analytical and problem-solving skills,
 
 I'm a valuable asset to any team due to my collaborative nature and willingness to learn. My background in full-stack development, combined with my emerging cybersecurity expertise, positions me to approach technological challenges with a unique, security-conscious perspective. I'm always seeking opportunities to expand my knowledge, protect digital environments, and tackle complex technological problems.
 Seeking Opportunity:
