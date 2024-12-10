@@ -1,5 +1,5 @@
 # Rayner Soto De Jesus 
-**` Full Stack Developer( Virtual Pioneer, Digital Explorer)`**
+**` Security Analyst, securing your enviroment( Virtual Pioneer, Digital Explorer)`**
 
 
 Emerging Cybersecurity Professional |Software Engineer/Full Stack Developer 
